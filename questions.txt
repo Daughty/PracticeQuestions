@@ -1,0 +1,20 @@
+1. How will u perform sort / search / mapping on a n level nested object
+2. Build an Email client 
+3. Build a timer
+4. Autosuggest search bar 
+5. Admin UI and CRUD operations on it 
+6. High order components use/benefits and its code example 
+7. pluck method( underscore ) its polyfill
+8. Debounc vs Throttle ( code included ) and usecases
+9. load balancer creation // ? 
+10. Design online multiplayer chess
+11. Comment box and then reply to a comment and so on
+12. One object with id and other with some data and having id as also as key . How will u map that 
+13. Library for carousel 
+14. Design Ads display which we are getting from an API
+15. Snake game
+16. Chat system - web sockets / service workers
+17. Food ordering app
+18. Suduko game
+19. Comparison App
+20. 
