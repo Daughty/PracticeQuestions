@@ -1,5 +1,5 @@
 var arr = [[3,5],8,9,[10,0]]
-var output = []
+var output = [3,5,8,9,10,0]
 
 // Method 1
 function flattenArr(arr) {

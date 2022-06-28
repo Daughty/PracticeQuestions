@@ -31,12 +31,12 @@ function dnsImplementation(args){
   return res
 }
 let input = [
-    ["PUT","www.phonepe.com","10.20.30.40"],
-    ["PUT","carrers.phonepe.com","10.20.30.50"],
+    ["PUT","www.phone.com","10.20.30.40"],
+    ["PUT","carrers.phone.com","10.20.30.50"],
     ["PUT","sites.google.com","142.250.183.238"],
     ["GET","example.com"],
-    ["GET","www.phonepe.com"],
-    ["COUNT","phonepe.com"],
+    ["GET","www.phone.com"],
+    ["COUNT","phone.com"],
     ["COUNT","com"]
 ]
 console.log(dnsImplementation(input))

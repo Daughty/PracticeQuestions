@@ -1,0 +1,23 @@
+.main {
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  margin: 0 100px;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  width:100%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+th, tr {
+  background-color: #f7f7f7e5;
+  color: #070707;
+  text-align: left;
+  padding:0px 0 10px 0;
+  border-bottom: rgb(146, 143, 143);
+}

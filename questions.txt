@@ -17,4 +17,5 @@
 17. Food ordering app
 18. Suduko game
 19. Comparison App
-20. 
+20. Payment and subscription Platform (example hotstar)
+21. Tic Tac Toe
